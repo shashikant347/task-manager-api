@@ -3,6 +3,10 @@
 REST API for managing tasks. Users can sign up, log in and manage their own tasks.
 Built with Node.js, Express, MongoDB and JWT.
 
+
+## baseURL
+https://task-manager-api-m3ns.onrender.com
+
 ## Run locally
 
 You need Node 18+ and a MongoDB instance (local or Atlas).
