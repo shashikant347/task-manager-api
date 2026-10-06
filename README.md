@@ -14,7 +14,7 @@ You need Node 18+ and a MongoDB instance (local or Atlas).
 Fill in .env before starting:
 
     PORT=5000
-    MONGO_URI=mongodb://127.0.0.1:27017/task_manager
+    MONGO_URI=mongodb_in_atlas
     JWT_SECRET=any_long_random_string
     JWT_EXPIRES_IN=1d
 
